@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm currently learning to become a full stack developer.\
 ✍️ &nbsp;In my free time, I tweet about random stuff & love listening to taylor swift songs & reading some non-fiction books.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at pranav.techiegeek@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at pranav.techiegeek@gmail.com I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp; My Current Tech Stack
 
